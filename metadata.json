@@ -1,0 +1,6 @@
+{
+  "name": "AutoGestão Oficina",
+  "description": "Sistema completo e responsivo de gerenciamento de oficina mecânica com recepção, checklist com fotos, diagnósticos, orçamento integrado ao estoque e fluxo financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
